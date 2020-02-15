@@ -16,13 +16,9 @@ Fake generated faces by the project :
 		git clone https://github.com/calincan2000/GenerateFaces.git
 		cd GANs-Generate-Faces/
 	```
-2. Install required dependencies using:
-	
-	```
-		pip install -r requirements.txt
-	```
-3. Download the dataset zip file from [here](https://drive.google.com/file/d/1PWYIxXk_yrGTozEpq7EOGkhzGl-T2bpT/view?usp=sharing).
-4. Open a terminal window and navigate to the project folder. Open the notebook using the bellow command and follow the instructions given in the notebook.
+
+2. Download the dataset zip file from [here](https://drive.google.com/file/d/1PWYIxXk_yrGTozEpq7EOGkhzGl-T2bpT/view?usp=sharing).
+3. Open a terminal window and navigate to the project folder. Open the notebook using the bellow command and follow the instructions given in the notebook.
 	
 	```
 		jupyter notebook dlnd_face_generation.ipynb
